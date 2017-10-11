@@ -1,0 +1,17 @@
+.top-bar {
+  position: absolute;
+  margin: 0 43px;
+}
+
+.top-bar li {
+  display: inline-block;
+  padding: 27px;
+}
+
+.top-bar li:hover {
+  color: red;
+}
+
+.hero img {
+  width: 100%;
+}
