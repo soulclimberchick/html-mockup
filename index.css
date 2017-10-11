@@ -1,6 +1,11 @@
 .top-bar {
   position: absolute;
-  margin: 0 43px;
+  width: 100%;
+}
+
+.top-bar ul {
+  margin: 0 auto;
+  width: 693px;
 }
 
 .top-bar li {
