@@ -62,7 +62,7 @@ p {
   letter-spacing: 0.25px;
   text-align: center;
   color: darkgrey;
-  line-height: 22px;
+  line-height: 21px;
   margin: auto;
   width: 68%;
   position: relative;
@@ -105,11 +105,19 @@ p {
 .top-bar li img {
   width: 60px;
 }
+.hero {
+  line-height: 0;
+}
 .hero img{
   width: 100%;
 }
+
+.chains {
+  background: #fdfdfd;
+  padding-bottom: 54px;
+}
 .chains img{
-  margin: auto;
+  margin: 0 auto;
   padding-top: 72px;
   padding-bottom: 20px;
   display: block;
