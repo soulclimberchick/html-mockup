@@ -55,6 +55,19 @@ h1 {
   letter-spacing: 2px;
   text-align: center;
 }
+
+p {
+  font-family: PT_Sans;
+  font-size: 10px;
+  letter-spacing: 0.25px;
+  text-align: center;
+  color: darkgrey;
+  line-height: 22px;
+  margin: auto;
+  width: 68%;
+  position: relative;
+  padding: 20px;
+}
 .top-bar {
   margin-top: 23px;
   position: absolute;
